@@ -1,1 +1,1 @@
-# Apod-Viewer with GUI
+# Apod Viewer with GUI
